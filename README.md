@@ -3,8 +3,10 @@
 This is a basic NodeJS template for backend development. You can use it for you API, CLI or any other backend service.
 
 ## ROADMAP
-- [ ] DI container 
+- [x] DI container 
+- [ ] Tests 
 - [ ] Logger
 - [ ] ORM
 - [ ] Auth
+- [ ] Cluster
 - ???
